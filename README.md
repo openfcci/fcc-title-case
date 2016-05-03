@@ -1,2 +1,2 @@
-# fcc-title-case
-Automatic Title Casing
+# FCC Title Case
+Automatic title casing of post titles on saved or published.
